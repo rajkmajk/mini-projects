@@ -1,2 +1,2 @@
 # mini-projects
-Some mini projects I made, but didn't have where to put
+Some mini projects I made, but didn't know where to put
