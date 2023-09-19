@@ -1,0 +1,23 @@
+.projects-container {
+    padding-top: 50px;
+}
+
+li a:link {
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+#project-link-color:hover {
+    text-decoration: none;
+}
+
+#project-link-color {
+    color: #ccc
+}
+
+/* #project-link-color:visited {
+    color: rgb(165, 42, 93);
+} */
